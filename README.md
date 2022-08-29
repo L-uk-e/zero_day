@@ -1,3 +1,1 @@
-
-
-My zero_day project
+My zero_day project.
